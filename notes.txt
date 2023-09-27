@@ -1,0 +1,29 @@
+Github: 
+https://github.com/muhammadraheelnaseem
+
+1.) Python Programming Lectures:
+https://github.com/MuhammadRaheelNaseem/Learn-Python-By-Sir-Raheel
+
+2.) Database - MySQL Lectures
+https://github.com/MuhammadRaheelNaseem/Learn_MySQL_By_Raheel
+
+3.) ESP's Firmwares:
+https://github.com/MuhammadRaheelNaseem/ESP_Filies
+
+4.) Esp32 | Esp8266 Lectures:
+https://github.com/MuhammadRaheelNaseem/Learn-IoT-With-Esp32-Esp8266-By-Raheel
+
+5.) Controlling Esp32 | Esp8266 with Clooud Platform:
+https://github.com/MuhammadRaheelNaseem/IoT_With_Clouds_For_Any_Microcontroller
+
+6.) API Development and Deployment into Cloud:
+https://github.com/MuhammadRaheelNaseem/Flask-API-Development
+
+7.) Raspberry Pi Lectures:
+https://github.com/MuhammadRaheelNaseem/Learn_Raspberry_Pi_Programming
+
+8.) Firebase Database:
+https://github.com/MuhammadRaheelNaseem/Connecting-Raspberry-Pi-with-Firebase-Database
+
+9.) Arduino Programming Lectures:
+https://github.com/MuhammadRaheelNaseem/Learn-Arduino-By-Sir-Raheel
